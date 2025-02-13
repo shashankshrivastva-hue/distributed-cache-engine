@@ -11,3 +11,4 @@ All notable changes documented here.
 - **2025-02-05**: perf: pre-allocate slice capacities for bulk string responses
 - **2025-02-08**: perf: pre-allocate slice capacities for bulk string responses
 - **2025-02-11**: test: simulate network partitions in Raft election tests
+- **2025-02-13**: style: align code structure with standard Go conventions
