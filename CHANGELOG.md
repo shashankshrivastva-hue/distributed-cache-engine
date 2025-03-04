@@ -19,3 +19,4 @@ All notable changes documented here.
 - **2025-02-26**: style: align code structure with standard Go conventions
 - **2025-02-26**: docs: add latency percentiles table to benchmark section
 - **2025-03-02**: feat: support EXPIRE and PEXPIRE commands in protocol handler
+- **2025-03-04**: fix: resolve memory leak in doubly-linked list eviction node
