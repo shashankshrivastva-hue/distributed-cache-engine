@@ -20,3 +20,4 @@ All notable changes documented here.
 - **2025-02-26**: docs: add latency percentiles table to benchmark section
 - **2025-03-02**: feat: support EXPIRE and PEXPIRE commands in protocol handler
 - **2025-03-04**: fix: resolve memory leak in doubly-linked list eviction node
+- **2025-03-06**: refactor: clean up RESP parser buffer allocation
