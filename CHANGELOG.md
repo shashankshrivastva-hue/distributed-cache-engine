@@ -22,3 +22,4 @@ All notable changes documented here.
 - **2025-03-04**: fix: resolve memory leak in doubly-linked list eviction node
 - **2025-03-06**: refactor: clean up RESP parser buffer allocation
 - **2025-03-09**: docs: illustrate Raft leader election state transitions
+- **2025-03-09**: docs: illustrate Raft leader election state transitions
