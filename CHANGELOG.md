@@ -25,3 +25,4 @@ All notable changes documented here.
 - **2025-03-09**: docs: illustrate Raft leader election state transitions
 - **2025-03-12**: feat: support EXPIRE and PEXPIRE commands in protocol handler
 - **2025-03-15**: chore: add benchmark targets to Makefile
+- **2025-03-18**: style: align code structure with standard Go conventions
