@@ -27,3 +27,4 @@ All notable changes documented here.
 - **2025-03-15**: chore: add benchmark targets to Makefile
 - **2025-03-18**: style: align code structure with standard Go conventions
 - **2025-03-21**: test: add concurrent read-write race condition tests
+- **2025-03-24**: perf: optimize sharded lock acquisition latency
