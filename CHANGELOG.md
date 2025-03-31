@@ -30,3 +30,4 @@ All notable changes documented here.
 - **2025-03-24**: perf: optimize sharded lock acquisition latency
 - **2025-03-27**: chore: add benchmark targets to Makefile
 - **2025-03-27**: perf: pre-allocate slice capacities for bulk string responses
+- **2025-03-31**: perf: pre-allocate slice capacities for bulk string responses
