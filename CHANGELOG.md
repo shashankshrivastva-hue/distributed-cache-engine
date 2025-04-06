@@ -32,3 +32,4 @@ All notable changes documented here.
 - **2025-03-27**: perf: pre-allocate slice capacities for bulk string responses
 - **2025-03-31**: perf: pre-allocate slice capacities for bulk string responses
 - **2025-04-03**: test: add concurrent read-write race condition tests
+- **2025-04-06**: test: add concurrent read-write race condition tests
