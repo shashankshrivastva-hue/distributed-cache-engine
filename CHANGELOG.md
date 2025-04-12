@@ -35,3 +35,4 @@ All notable changes documented here.
 - **2025-04-06**: test: add concurrent read-write race condition tests
 - **2025-04-09**: test: simulate network partitions in Raft election tests
 - **2025-04-12**: docs: add latency percentiles table to benchmark section
+- **2025-04-12**: test: simulate network partitions in Raft election tests
