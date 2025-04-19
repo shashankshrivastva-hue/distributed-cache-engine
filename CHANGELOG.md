@@ -38,3 +38,4 @@ All notable changes documented here.
 - **2025-04-12**: test: simulate network partitions in Raft election tests
 - **2025-04-14**: feat: support EXPIRE and PEXPIRE commands in protocol handler
 - **2025-04-17**: refactor: clean up RESP parser buffer allocation
+- **2025-04-19**: style: align code structure with standard Go conventions
